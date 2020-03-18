@@ -1,2 +1,1 @@
-## NOW: Playground repository
-#### THEN: boilerplate repository
+# Boilerplate repository
