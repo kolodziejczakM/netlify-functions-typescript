@@ -1,0 +1,35 @@
+{
+  "name": "netlify-functions-ts-example",
+  "version": "1.0.0",
+  "description": "Boilerplate repository",
+  "main": "index.js",
+  "dependencies": {
+    "netlify-lambda": "^1.6.3",
+    "node-fetch": "^2.6.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.8.7",
+    "@babel/preset-typescript": "^7.8.3",
+    "@types/aws-lambda": "^8.10.46",
+    "@types/node": "^13.9.1",
+    "@types/node-fetch": "^2.5.5",
+    "babel-loader": "^8.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "netlify dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolodziejczakM/netlify-functions-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kolodziejczakM/netlify-functions-typescript/issues"
+  },
+  "homepage": "https://github.com/kolodziejczakM/netlify-functions-typescript#readme"
+}
